@@ -6,4 +6,5 @@
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about Front End.
 - 📫 How to reach me: arthur.florenco@outlook.com
+- 📫 LinkdIn: https://www.linkedin.com/in/arthurflorenco/
 
