@@ -3,8 +3,7 @@
 
 
 - 🔭 I’m currently working on Freelancer Development
-- 🌱 I’m currently learning TypeScript
-- 💬 Ask me about Front End.
+- 💬 Ask me about Front End and Back End.
 - 📫 How to reach me: arthur.florenco@outlook.com
 - 📫 LinkdIn: https://www.linkedin.com/in/arthurflorenco/
 
